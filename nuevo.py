@@ -1,4 +1,2 @@
-print("numeros naturales")
-print("Ingrese su numero:")
-n = int(input())
-print("su numero es ", n)
+n = int(input("Ingrese su numero: "))
+print("Su numero es:",n)
